@@ -1,0 +1,22 @@
+body {
+    text-align: center !important;
+    background-color: cadetblue !important;
+    margin:5%;
+  }
+  
+  .container {
+    border: 2px solid gray !important;
+    border-radius: 10px !important;
+    height: 400px !important;
+    width: 400px !important;
+    display: grid !important;
+    padding: 10px;
+  }
+  button {
+    height: 50px;
+    width: 80px;
+    gap: 10px !important;
+    row-gap: 50px !important;
+    border: 2px solid gray !important;
+    border-radius: 10px !important;
+  }
