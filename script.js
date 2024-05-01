@@ -30,7 +30,7 @@ document.body.append(mainDiv);
 const check = document.getElementById("form");
 
 check.addEventListener("keypress", () => alert("Only numbers are allowed"));
-function calculation(value){
-    var result =eval(value);
-    return result;
+function calculation(value) {
+  var result = eval(value);
+  return result;
 }
